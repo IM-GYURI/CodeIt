@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+  }
+  
+  .logo {
+    width: 104px;
+    margin: 68px 48px 0 48px;
+  }
+  
+  .text {
+    font-size: 22px;
+    padding: 24px 24px 24px 48px;
+    border-bottom: 3px solid gray;
+  }
+  
+  .texts {
+    padding: 40px 48px 8px 48px;
+  }
+  
+  .date {
+    font-size: 16px;
+    padding: 8px 24px 24px 48px;
+  }
+  
+  .arts {
+    height: 194px;
+    white-space: nowrap;
+    margin: 24px 0 24px 0;
+  }
+  
+  .arts-link {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 24px 0 72px 48px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000000;
+  }
+  
+  .intro {
+    padding: 0 0 16px 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+  }
+  
+  .desc {
+    margin: 0 48px;
+  }
+  
+  .detail {
+    font-size: 16px;
+    padding: 16px 0 24px 0;
+  }
